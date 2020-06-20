@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.mb-10 {
+  margin-bottom: 1em;
+}
+
+.ml-10 {
+  margin-left: 1em;
+}
+
+.mt-30 {
+  margin-top: 3em;
+}
+
+.strong {
+  font-weight: bold;
+  font-size: medium;
+  color: red;
+}
